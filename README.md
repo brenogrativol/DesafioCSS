@@ -4,3 +4,5 @@
 <h2>tecnologia utilizadas:<h2>
 HTML| CSS
 <br>
+<img src="https://github.com/brenogrativol/you-get-points/blob/master/img/Monitor.png?raw=true" width=600px>
+<img src="https://github.com/brenogrativol/you-get-points/blob/master/img/phone.png?raw=true" width=130px>
